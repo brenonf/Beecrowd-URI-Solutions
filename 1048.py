@@ -19,6 +19,8 @@ if  x > 2000.00:
     s = x * 1.04
     r = s - x
     p = 4
+
+    
 print('Novo salario: {:.2f}'.format(s))
 print('Reajuste ganho: {:.2f}'.format(r))
 print('Em percentual: {} %'.format(p))
