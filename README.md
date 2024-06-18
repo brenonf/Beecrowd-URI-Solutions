@@ -25,6 +25,13 @@
   <li>A de leitura de código de terceiros e manutenção de código legado: sim, meus códigos horríveis com diversas variáveis a, b, c, d, x, y, z... vão forçar você a evoluir nesse ponto.</li>
 </ul>
 
+<h2>Acesso por linguagem</h2>
+
+<p><a href="https://github.com/brenonf/Beecrowd-URI-Solutions/tree/master/C%23" target="_blank">C#</a></p>
+<p><a href="https://github.com/brenonf/Beecrowd-URI-Solutions/tree/master/Python" target="_blank">Python</a></p>
+
+<h2>Contato</h2>
+
 <p><a href="https://judge.beecrowd.com/pt/profile/265089" target="_blank">Perfil no Beecrowd 🐝</a></p>
 
 <p><a href="https://www.linkedin.com/in/brenonf/" target="_blank">Perfil no Linkedin 💼</a></p>
