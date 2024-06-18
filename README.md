@@ -28,8 +28,10 @@
 <h2>Acesso por linguagem</h2>
 
 <p><a href="https://github.com/brenonf/Beecrowd-URI-Solutions/tree/master/C%23" target="_blank">C#</a></p>
+![Número de Arquivos C#](https://img.shields.io/github/directory-file-count/brenonf/Beecrowd-URI-Solutions/CSharp)
 
 <p><a href="https://github.com/brenonf/Beecrowd-URI-Solutions/tree/master/Python" target="_blank">Python</a></p>
+![Número de Arquivos C#](https://img.shields.io/github/directory-file-count/brenonf/Beecrowd-URI-Solutions/Python)
 
 <h2>Contato</h2>
 
