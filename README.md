@@ -28,23 +28,11 @@
 <h2>Acesso por linguagem</h2>
 
 <p><a href="https://github.com/brenonf/Beecrowd-URI-Solutions/tree/master/C%23" target="_blank">C#</a></p>
-[![Número de Arquivos C#](https://img.shields.io/github/directory-file-count/brenonf/Beecrowd-URI-Solutions/CSharpCode)](https://github.com/brenonf/Beecrowd-URI-Solutions/tree/master/CSharpCode)
+
 <p><a href="https://github.com/brenonf/Beecrowd-URI-Solutions/tree/master/Python" target="_blank">Python</a></p>
-<a href="https://github.com/brenonf/Beecrowd-URI-Solutions/tree/master/C%23">
-  <img alt="Número de Arquivos C#" src="https://img.shields.io/github/directory-file-count/brenonf/Beecrowd-URI-Solutions/tree/master/C%23">
-</a>
 
 <h2>Contato</h2>
 
 <p><a href="https://judge.beecrowd.com/pt/profile/265089" target="_blank">Perfil no Beecrowd 🐝</a></p>
 
 <p><a href="https://www.linkedin.com/in/brenonf/" target="_blank">Perfil no Linkedin 💼</a></p>
-
-<h2>Acesso por linguagem</h2>
-
-<p><a href="https://github.com/brenonf/Beecrowd-URI-Solutions/tree/master/C%23"" target="_blank">C#</a></p>
-<a href="https://github.com/brenonf/Beecrowd-URI-Solutions/tree/master/C%23"">
-  <img alt="Número de Arquivos C#" src="https://img.shields.io/github/directory-file-count/brenonf/Beecrowd-URI-Solutions/C%23"">
-</a>
-
-<p><a href="https://github.com/brenonf/Beecrowd-URI-Solutions/tree/master/Python" target="_blank">Python</a></p>
