@@ -42,9 +42,9 @@
 
 <h2>Acesso por linguagem</h2>
 
-<p><a href="https://github.com/brenonf/Beecrowd-URI-Solutions/tree/master/CSharpCode" target="_blank">C#</a></p>
-<a href="https://github.com/brenonf/Beecrowd-URI-Solutions/tree/master/CSharpCode">
-  <img alt="Número de Arquivos C#" src="https://img.shields.io/github/directory-file-count/brenonf/Beecrowd-URI-Solutions/CSharpCode">
+<p><a href="https://github.com/brenonf/Beecrowd-URI-Solutions/tree/master/C%23"" target="_blank">C#</a></p>
+<a href="https://github.com/brenonf/Beecrowd-URI-Solutions/tree/master/C%23"">
+  <img alt="Número de Arquivos C#" src="https://img.shields.io/github/directory-file-count/brenonf/Beecrowd-URI-Solutions/C%23"">
 </a>
 
 <p><a href="https://github.com/brenonf/Beecrowd-URI-Solutions/tree/master/Python" target="_blank">Python</a></p>
