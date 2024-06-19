@@ -1,6 +1,6 @@
 <h1>Soluções para o Beecrowd (antigo Uri Online Judge)</h1>
 
-<h2>Disclaimer</h2>
+<h2>☢️Disclaimer☢️</h2>
 
 <p>Boa parte desse código foi escrito por volta de 2018, em minha fase inicial na programação. Reforço que não são exemplos de boas práticas para quem está começando. Outro ponto é que, para conseguir fazer o maior número de exercícios, optei por adotar o "extreme go horse" mesmo nos códigos mais recentes, ainda que sempre buscando, dentro do possível, soluções que otimizem o código.</p>
 
@@ -8,9 +8,11 @@
 
 <p>Ao longo do tempo, também evoluí muito em termos de lógica, eficiência/otimização e boas práticas. Portanto, o repositório não representa minha capacidade atual de escrita e resolução de problemas.</p>
 
+<br/>
+
 <h2>Sugestão de uso das informações do repositório</h2>
 
-<p>Recomendo que não copie os códigos e já os submeta no Beecrowd, nesse caso estaria enganando a si mesmo. Um perfil do Beecrowd com um grande número de exercícios resolvidos acaba que não é grande coisa assim se for pensar. Acredito que a melhor forma de usar essas informações seria:</p>
+<p>Recomendo que não copie os códigos e já os submeta no Beecrowd, nesse caso estaria enganando a si mesmo. Um perfil do Beecrowd com um grande número de exercícios resolvidos acaba que não é grande coisa assim se for pensar. Acredito que a melhor forma de usar essas informações e desenvolver suas habilidades seria:</p>
 
 <ul>
   <li>Tentar resolver sozinho, estipulando um tempo máximo de dedicação, por exemplo, 30 minutos por problema.</li>
@@ -25,13 +27,17 @@
   <li>A de leitura de código de terceiros e manutenção de código legado: sim, meus códigos horríveis com diversas variáveis a, b, c, d, x, y, z... vão forçar você a evoluir nesse ponto.</li>
 </ul>
 
+<br/>
+
 <h2>Acesso por linguagem</h2>
 
-<p><a href="https://github.com/brenonf/Beecrowd-URI-Solutions/tree/master/C%23" target="_blank">C#</a>
-<img src="https://img.shields.io/github/directory-file-count/brenonf/Beecrowd-URI-Solutions/CSharp"></img></p>
+<p><a href="https://github.com/brenonf/Beecrowd-URI-Solutions/tree/master/CSharp" target="_blank">C#</a></p>
+<a href="https://github.com/brenonf/Beecrowd-URI-Solutions/tree/master/CSharp" target="_blank"><img src="https://img.shields.io/github/directory-file-count/brenonf/Beecrowd-URI-Solutions/CSharp"></img></a>
 
-<p><a href="https://github.com/brenonf/Beecrowd-URI-Solutions/tree/master/Python" target="_blank">Python</a>
-<img src="https://img.shields.io/github/directory-file-count/brenonf/Beecrowd-URI-Solutions/Python"></img></p>
+<p><a href="https://github.com/brenonf/Beecrowd-URI-Solutions/tree/master/Python" target="_blank">Python</a></p>
+<p><a href="https://github.com/brenonf/Beecrowd-URI-Solutions/tree/master/Python" target="_blank"><img src="https://img.shields.io/github/directory-file-count/brenonf/Beecrowd-URI-Solutions/Python"></img></a></p>
+
+<br/>
 
 <h2>Contato</h2>
 
