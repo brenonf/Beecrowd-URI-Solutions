@@ -31,15 +31,17 @@
 
 <h2>Acesso por linguagem</h2>
 
-<p><a href="https://github.com/brenonf/Beecrowd-URI-Solutions/tree/master/CSharp" target="_blank">C#</a></p>
-<a href="https://github.com/brenonf/Beecrowd-URI-Solutions/tree/master/CSharp" target="_blank"><img src="https://img.shields.io/github/directory-file-count/brenonf/Beecrowd-URI-Solutions/CSharp"></img></a>
+<div>
+  <p><a href="https://github.com/brenonf/Beecrowd-URI-Solutions/tree/master/CSharp" target="_blank">C#</a></p>
+  <a href="https://github.com/brenonf/Beecrowd-URI-Solutions/tree/master/CSharp" target="_blank"><img src="https://img.shields.io/github/directory-file-count/brenonf/Beecrowd-URI-Solutions/CSharp"></img></a>
+</div>
 
 <br/>
 
-<p><a href="https://github.com/brenonf/Beecrowd-URI-Solutions/tree/master/Python" target="_blank">Python</a></p>
-<p><a href="https://github.com/brenonf/Beecrowd-URI-Solutions/tree/master/Python" target="_blank"><img src="https://img.shields.io/github/directory-file-count/brenonf/Beecrowd-URI-Solutions/Python"></img></a></p>
-
-<br/>
+<div>
+  <p><a href="https://github.com/brenonf/Beecrowd-URI-Solutions/tree/master/Python" target="_blank">Python</a></p>
+  <p><a href="https://github.com/brenonf/Beecrowd-URI-Solutions/tree/master/Python" target="_blank"><img src="https://img.shields.io/github/directory-file-count/brenonf/Beecrowd-URI-Solutions/Python"></img></a></p>
+</div>
 
 <h2>Contato</h2>
 
