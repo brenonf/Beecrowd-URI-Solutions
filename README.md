@@ -48,3 +48,7 @@
 <p><a href="https://judge.beecrowd.com/pt/profile/265089" target="_blank">Perfil no Beecrowd 🐝</a></p>
 
 <p><a href="https://www.linkedin.com/in/brenonf/" target="_blank">Perfil no Linkedin 💼</a></p>
+
+<hr/>
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=brenonf/Beecrowd-URI-Solutions&left_color=red&right_color=orange" alt="visitor badge"/>
