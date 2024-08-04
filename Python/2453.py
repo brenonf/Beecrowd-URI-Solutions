@@ -1,0 +1,7 @@
+n=input()
+n = n.replace("pp", "-")
+n = n.replace("pP", "+")
+n = n.replace("p", "")
+n = n.replace("-", "p")
+n = n.replace("+", "P")
+print(n)
